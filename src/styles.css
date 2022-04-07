@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.my-border {
+  border-bottom: 1px solid black;
+}
+
+.u-header {
+  background: #000044;
+  color: #ffffff;
+}
+
+.u-table {
+  border-collapse: collapse;
+}
+
+.u-cell-layout {
+  padding: 10px;
+}
